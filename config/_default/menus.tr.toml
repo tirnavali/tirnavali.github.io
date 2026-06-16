@@ -1,0 +1,56 @@
+[[main]]
+  name = "Ana Sayfa"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Hakkımda"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 30
+
+[[main]]
+  name = "Projeler"
+  pageRef = "projects"
+  weight = 40
+
+[[main]]
+  name = "Sertifikalar"
+  pageRef = "certificates"
+  weight = 50
+
+[[main]]
+  name = "İletişim"
+  pageRef = "contact"
+  weight = 60
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/tirnavali/"
+  weight = 200
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/tirnavali"
+  weight = 300
+
+[[footer]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 10
+
+[[footer]]
+  name = "Projeler"
+  pageRef = "projects"
+  weight = 20
+
+[[footer]]
+  name = "Etiketler"
+  pageRef = "tags"
+  weight = 30

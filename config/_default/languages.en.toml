@@ -1,0 +1,24 @@
+locale = "en"
+label = "English"
+weight = 2
+title = "Sercan Tırnavalı"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Librarian & Software Developer | RAG · Information Retrieval · Digital Archives"
+
+[params.author]
+  name = "Sercan Tırnavalı"
+  email = "sercantirnavali@live.com"
+  image = "img/author.svg"
+  headline = "Librarian & Software Developer"
+  bio = "Librarian and software developer at the Turkish Parliament Library. Specialized in information retrieval, RAG systems, and digital archives. PhD student in Artificial Intelligence Studies at Ankara University."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/tirnavali/" },
+    { github = "https://github.com/tirnavali" },
+    { stack-overflow = "https://stackoverflow.com/users/8763546/sercan-tirnavali" },
+    { flickr = "https://www.flickr.com/photos/sercant" },
+  ]
