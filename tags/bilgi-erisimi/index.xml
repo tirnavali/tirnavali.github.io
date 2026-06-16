@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bilgi-Erisimi on Sercan Tırnavalı</title><link>https://sercantirnavali.com/tags/bilgi-erisimi/</link><description>Recent content in Bilgi-Erisimi on Sercan Tırnavalı</description><generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>sercantirnavali@live.com (Sercan Tırnavalı)</managingEditor><webMaster>sercantirnavali@live.com (Sercan Tırnavalı)</webMaster><copyright>© 2026 Sercan Tırnavalı</copyright><lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sercantirnavali.com/tags/bilgi-erisimi/index.xml" rel="self" type="application/rss+xml"/><item><title>RAG Sistemlerinde Retrieval Kalitesini Artırma Yöntemleri</title><link>https://sercantirnavali.com/blog/rag-sistemlerinde-retrieval-kalitesi/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><author>sercantirnavali@live.com (Sercan Tırnavalı)</author><guid>https://sercantirnavali.com/blog/rag-sistemlerinde-retrieval-kalitesi/</guid><description>&lt;h2 class="relative group"&gt;Giriş
+ &lt;div id="giriş" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#giri%c5%9f" aria-label="Bağlantı"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Retrieval-Augmented Generation (RAG), büyük dil modellerinin (LLM) dış bilgi kaynaklarıyla desteklenerek daha doğru ve güncel yanıtlar üretmesini sağlayan bir mimaridir. Sistemin başarısı büyük ölçüde retrieval aşamasının kalitesine bağlıdır.&lt;/p&gt;</description></item></channel></rss>
