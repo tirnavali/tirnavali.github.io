@@ -25,4 +25,4 @@ Professional certifications and completed training programs.
 
 ---
 
-> *Visit my [LinkedIn profile](https://www.linkedin.com/in/tirnavali/) for a detailed list of certifications with verification links.*
+> *Visit my [LinkedIn profile](https://www.linkedin.com/in/sercan-tirnavali/) for a detailed list of certifications with verification links.*

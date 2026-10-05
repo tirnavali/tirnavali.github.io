@@ -25,4 +25,4 @@ Aldığım profesyonel sertifikalar ve tamamladığım eğitim programları.
 
 ---
 
-> *Sertifikalarımın detaylı listesi ve doğrulama bağlantıları için [LinkedIn profilimi](https://www.linkedin.com/in/tirnavali/) ziyaret edebilirsiniz.*
+> *Sertifikalarımın detaylı listesi ve doğrulama bağlantıları için [LinkedIn profilimi](https://www.linkedin.com/in/sercan-tirnavali/) ziyaret edebilirsiniz.*
