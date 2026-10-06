@@ -7,17 +7,6 @@ Aldığım profesyonel sertifikalar ve tamamladığım eğitim programları.
 
 ---
 
-## Yapay Zeka & Veri Bilimi
-
-- **Deep Learning Specialization** — deeplearning.ai / Coursera
-- **Natural Language Processing Specialization** — deeplearning.ai / Coursera
-- **Machine Learning** — Stanford University / Coursera
-
-## Bilgi Yönetimi
-
-- **Electronic Records Management** — Uluslararası Arşiv Konseyi (ICA)
-- **Digital Preservation** — Digital Preservation Coalition (DPC)
-
 ## Yazılım Geliştirme
 
 - **Oracle Certified Professional, Java SE** — Oracle
