@@ -21,7 +21,7 @@ Professional certifications and completed training programs.
 ## Software Development
 
 - **Oracle Certified Professional, Java SE** — Oracle
-- **Microsoft Certified: Azure Fundamentals** — Microsoft
+- **Java Backend Developer** — UPOD / Digital Future Community, August 2024 (211 hours)
 
 ---
 

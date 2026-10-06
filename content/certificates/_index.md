@@ -21,7 +21,7 @@ Aldığım profesyonel sertifikalar ve tamamladığım eğitim programları.
 ## Yazılım Geliştirme
 
 - **Oracle Certified Professional, Java SE** — Oracle
-- **Microsoft Certified: Azure Fundamentals** — Microsoft
+- **Java Backend Developer** — UPOD / Dijital Gelecek Topluluğu, Ağustos 2024 (211 saat)
 
 ---
 
